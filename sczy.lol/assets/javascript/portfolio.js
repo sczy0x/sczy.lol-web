@@ -38,7 +38,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['z', 'zu', 'zur', 'zurl', 'zurly', 'zurly $']);
+  app.titleChanger(['s', 'sc', 'scz', 'sczy', 'sczy', 'zurly £']);
   app.iconChanger(['assets/icons/rose1.jpg', 'assets/icons/rose2.jpg', 'assets/icons/rose3.jpg', 'assets/icons/rose4.jpg', 'assets/icons/rose5.jpg', 'assets/icons/rose6.jpg', 'assets/icons/rose7.jpg', 'assets/icons/rose7.jpg', 'assets/icons/rose1.jpg']);
 });
 
