@@ -14,7 +14,7 @@ $(document).ready(() => {
     },
     {
       name: 'spotify',
-      link: 'open.spotify.com/playlist/0Ts0XM8uMEpuhVwooDDaUj?si=99e33f2e0edb4a2c',
+      link: 'https://open.spotify.com/',
     },
     {
       name: 'feds.lol',
