@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['#1 discord mod', 'sczy.#2006', '20k hours', 'hecker', '#1 skid', 'cool guy', 'pc nerd', '.gg/GonzoVPN'];
+  brandDescription = ['#1 discord mod', 'sczy.#2006', '20k hours', 'hecker', '#1 skid', 'cool guy', 'dont be poor', '.gg/NoNitro?'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
